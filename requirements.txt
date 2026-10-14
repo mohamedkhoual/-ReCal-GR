@@ -1,0 +1,9 @@
+pandas>=2.0
+numpy>=1.26
+scikit-learn>=1.4
+scipy>=1.11
+statsmodels>=0.14
+lightgbm>=4.0
+xgboost>=2.0
+# generation only (GPU): transformers>=4.44 accelerate torch
+openpyxl>=3.1
